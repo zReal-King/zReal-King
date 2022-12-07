@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm zReal-King</h1>
-<h3 align="center">A roblox script developer</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zreal-king&show_icons=true&locale=en" alt="zreal-king" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zreal-king&show_icons=true&locale=en&layout=compact" alt="zreal-king" /></p>
